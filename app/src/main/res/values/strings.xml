@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BluetoothAttendanceTracker</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_add_class">Add Class</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="messageHint">Message</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="login">Login</string>
+    <string name="confirmPasswordHint">Confirm Password</string>
+    <string name="signUp">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="cancelHint">Cancel</string>
+    <string name="lastNameHint">Last Name</string>
+    <string name="firstNameHint">First Name</string>
+    <string name="userNameHint">UNCC Email</string>
+    <string name="newUserHint">Create New Account</string>
+    <string name="classNameHint">Class Name</string>
+    <string name="classCodeHint">Class Code</string>
+    <string name="classTimeHint">Class Time</string>
+    <string name="addClass">Add Class</string>
+    <string name="forgotPassword">Forgot your password?</string>
+    <string name="title_activity_sign_up">(Sign Up)</string>
+    <string name="title_activity_add_class">AddClassActivity</string>
+    <string name="title_activity_student_class">StudentClassActivity</string>
+    <string name="title_activity_attendance">AttendanceActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
